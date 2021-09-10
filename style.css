@@ -90,3 +90,9 @@ button:focus{
   display: flex;
   justify-content: center;
 }
+
+@media screen and (max-width: 499px) {
+  .conatiner {
+    width: 359px;
+  }
+}
