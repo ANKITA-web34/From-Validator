@@ -92,7 +92,12 @@ button:focus{
 }
 
 @media screen and (max-width: 499px) {
+  body {
+    background: whitesmoke;
+  }
+
   .conatiner {
     width: 359px;
+    box-shadow: none;
   }
 }
